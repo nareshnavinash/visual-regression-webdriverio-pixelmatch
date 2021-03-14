@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1615719052678' stop='1615719057115'>
+    <name>Workspace Tests: google search page</name>
+    <title>Workspace Tests: google search page</title>
+    <test-cases>
+        <test-case start='1615719052678' status='passed' stop='1615719057112'>
+            <name>Validate the google search page</name>
+            <title>Validate the google search page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-89.0.4389.82'/>
+                <parameter kind='environment-variable' name='BROWSER' value='chrome'/>
+                <parameter kind='environment-variable' name='BROWSER_VERSION' value='undefined'/>
+                <parameter kind='environment-variable' name='PLATFORM' value='undefined'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c93909c4-5058-4eba-aa32-7a7eaa62626e-attachment.png' type='image/png' size='74529'/>
+                <attachment title='Screenshot' source='4a549bab-54a4-4fb3-85c0-7725fc1a3518-attachment.png' type='image/png' size='74475'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

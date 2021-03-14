@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1615719052677' stop='1615719057119'>
+    <name>Workspace Tests</name>
+    <title>Workspace Tests</title>
+    <test-cases>
+        <test-case start='1615719052677' status='passed' stop='1615719052678'>
+            <name>"before all" hook for Workspace Tests</name>
+            <title>"before all" hook for Workspace Tests</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-89.0.4389.82'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
