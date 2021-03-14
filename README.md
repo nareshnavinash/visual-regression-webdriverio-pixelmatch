@@ -100,7 +100,7 @@ So, To run the tests based on the tags, we can directly use `npm run test -- --m
 For better illustration on the testcases, allure report has been integrated. Allure reports can also be integrated with jenkins to get a dashboard view. Failed screenshots will be automatically attached to the allure report. Apart from allure, JSON & Junit reports I have built a custom crafted html report sample of which can be seen in `/sample_report/index.html`. 
 
 
-![caption] (https://user-images.githubusercontent.com/27988169/111067887-551c5300-84ec-11eb-93f6-4de1c9240816.mp4)
+![visualDiffRec](https://user-images.githubusercontent.com/27988169/111068394-9281e000-84ee-11eb-80f7-bf30a12e8a36.gif)
 
 
 
